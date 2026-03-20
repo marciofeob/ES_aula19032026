@@ -62,6 +62,8 @@ Permitir que o usuário acesse o sistema de acordo com seu perfil.
 
 ## UC02 — Cadastrar Novo Aluno
 
+![alt text](image-1.png)
+
 ### Ator Principal
 Recepcionista
 
@@ -94,6 +96,8 @@ Registrar um novo aluno na base de dados da academia.
 ---
 
 ## UC03 — Editar Dados do Aluno
+
+![alt text](image-2.png)
 
 ### Ator Principal
 Recepcionista
@@ -128,6 +132,8 @@ Atualizar informações pessoais, de contato ou endereço de um aluno.
 
 ## UC04 — Cadastrar Plano
 
+![alt text](image-4.png)
+
 ### Ator Principal
 Gerente
 
@@ -161,6 +167,8 @@ Criar um novo tipo de plano (mensal, anual, etc.) para comercialização.
 
 ## UC05 — Editar/Desativar Plano
 
+![alt text](image-4.png)
+
 ### Ator Principal
 Gerente
 
@@ -193,6 +201,8 @@ Alterar valores de um plano existente ou desativá-lo para não ser mais vendido
 ---
 
 ## UC06 — Registrar Pagamento Presencial
+
+![alt text](image-5.png)
 
 ### Ator Principal
 Recepcionista
@@ -228,6 +238,8 @@ Registrar o pagamento da mensalidade feito fisicamente na academia.
 
 ## UC07 — Realizar Pagamento Online
 
+![alt text](image-6.png)
+
 ### Ator Principal
 Aluno
 
@@ -261,6 +273,8 @@ Permitir que o aluno pague sua mensalidade pelo sistema web/mobile.
 ---
 
 ## UC08 — Validar Acesso via Catraca (RFID)
+
+![alt text](image-7.png)
 
 ### Ator Principal
 Sistema de Catraca
@@ -296,6 +310,8 @@ Liberar ou bloquear a entrada do aluno fisicamente na academia.
 
 ## UC09 — Visualizar Horários de Aulas
 
+![alt text](image-8.png)
+
 ### Ator Principal
 Aluno
 
@@ -328,6 +344,8 @@ Consultar a grade de aulas disponíveis na academia.
 ---
 
 ## UC10 — Agendar Aula
+
+![alt text](image-9.png)
 
 ### Ator Principal
 Aluno
@@ -363,6 +381,8 @@ Reservar uma vaga em uma aula específica.
 
 ## UC11 — Cancelar Agendamento de Aula
 
+![alt text](image-10.png)
+
 ### Ator Principal
 Aluno
 
@@ -396,6 +416,8 @@ Cancelar uma reserva feita previamente.
 ---
 
 ## UC12 — Registrar Presença em Aula
+
+![alt text](image-11.png)
 
 ### Ator Principal
 Instrutor
@@ -431,6 +453,8 @@ Confirmar quais alunos agendados compareceram à aula.
 
 ## UC13 — Registrar Avaliação Física
 
+![alt text](image-12.png)
+
 ### Ator Principal
 Instrutor
 
@@ -465,6 +489,8 @@ Inserir métricas e documentos de avaliação física do aluno.
 
 ## UC14 — Visualizar Avaliação Física
 
+![alt text](image-13.png)
+
 ### Ator Principal
 Aluno
 
@@ -497,6 +523,8 @@ Acessar os resultados de suas avaliações físicas.
 ---
 
 ## UC15 — Emitir Relatório de Inadimplência
+
+![alt text](image-14.png)
 
 ### Ator Principal
 Gerente
@@ -531,6 +559,8 @@ Visualizar lista de alunos com pagamentos atrasados.
 
 ## UC16 — Emitir Relatório de Alunos Ativos
 
+![alt text](image-15.png)
+
 ### Ator Principal
 Gerente
 
@@ -562,6 +592,8 @@ Acompanhar o total de alunos ativos divididos por planos.
 ---
 
 ## UC17 — Emitir Relatório de Histórico de Acessos
+
+![alt text](image-16.png)
 
 ### Ator Principal
 Gerente
@@ -596,6 +628,8 @@ Auditar os horários de pico e entrada de alunos via catraca.
 
 ## UC18 — Emitir Relatório de Ocupação das Aulas
 
+![alt text](image-17.png)
+
 ### Ator Principal
 Gerente
 
@@ -629,6 +663,8 @@ Analisar quais aulas/modalidades estão mais cheias ou vazias.
 
 ## UC19 — Enviar Notificação de Vencimento
 
+![alt text](image-18.png)
+
 ### Ator Principal
 Sistema (Tempo / Processo Batch)
 
@@ -661,6 +697,8 @@ Avisar os alunos preventivamente sobre o vencimento de suas mensalidades.
 ---
 
 ## UC20 — Atualizar Status de Regularidade Automática
+
+![alt text](image-19.png)
 
 ### Ator Principal
 Sistema (Trigger Financeiro)
